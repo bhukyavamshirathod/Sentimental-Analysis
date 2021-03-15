@@ -3,3 +3,4 @@ pandas
 sklearn
 BeautifulSoup4
 nltk
+contractions
