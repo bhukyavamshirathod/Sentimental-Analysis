@@ -45,7 +45,7 @@ def remove_stop_words(text):
 
 st.title("Tweet's Sentiment Analysis")
 
-df = pd.read_csv('https://raw.githubusercontent.com/YashDarapu/Sentiment-Analysis-Major-Project/main/Train.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/bhukyavamshirathod/Sentimental-Analysis/main/Train.csv')
 
 df.tweet=df.tweet.apply(lambda x:x.lower())
 df.tweet=df.tweet.apply(html_tag)
