@@ -1,3 +1,14 @@
 streamlit
 pandas
 sklearn
+requests
+BeautifulSoup
+numpy
+nltk
+contractions
+re
+ToktokTokenizer
+SentimentIntensityAnalyzer
+Pipeline
+TfidfVectorizer
+SVC
