@@ -4,3 +4,4 @@ sklearn
 BeautifulSoup4
 nltk
 contractions
+SentimentIntensityAnalyzer
